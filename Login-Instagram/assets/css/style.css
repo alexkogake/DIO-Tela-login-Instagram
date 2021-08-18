@@ -77,7 +77,8 @@ body {
   overflow: hidden;
 }
 .profile-photo img {
-  height: 6rem;
+  width: 84px;
+  height: 84px;
 }
 .insta-login {
   background-color: #0095f6;
